@@ -1,0 +1,11 @@
+[
+  {
+    "name": "buiki",
+    "fieldId": "buiki",
+    "validations": {},
+    "options": {},
+    "componentId": "single-line-text",
+    "modelId": "dasdasd",
+    "fieldType": "string"
+  }
+]
