@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "name": "tese",
+    "fieldId": "tese",
+    "validations": {},
+    "options": {},
+    "componentId": "single-line-text",
+    "modelId": "iki",
+    "fieldType": "string"
+  }
+]
